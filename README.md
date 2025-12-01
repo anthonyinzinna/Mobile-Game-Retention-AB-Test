@@ -5,14 +5,14 @@ Player engagement on a mobile game
 Executive Summary of Findings
 Here is a summary of our three key analytical questions and their statistically backed answers:
 1.	1-Day Retention: Did moving the gate to level 40 affect whether players returned after one day?
-o	Result: No significant impact. (p-value = 0.75)
-o	Conclusion: The change didn't make a difference to immediate, short-term player churn.
+	Result: No significant impact. (p-value = 0.75)
+	Conclusion: The change didn't make a difference to immediate, short-term player churn.
 2.	7-Day Retention: Did moving the gate to level 40 affect whether players returned after one week?
-o	Result: Yes, a statistically significant negative impact. (p-value = 0.002)
-o	Conclusion: The treatment (gate at 40) caused fewer players to stick with the game for a full week compared to the control (gate at 30).
+	Result: Yes, a statistically significant negative impact. (p-value = 0.002)
+	Conclusion: The treatment (gate at 40) caused fewer players to stick with the game for a full week compared to the control (gate at 30).
 3.	Player Engagement: Did moving the gate to level 40 affect how many rounds players played?
-o	Result: No significant impact. (p-value = 0.0509)
-o	Conclusion: We found no statistical evidence that moving the gate changed the overall engagement (total rounds played) of the player base.
+	Result: No significant impact. (p-value = 0.0509)
+	Conclusion: We found no statistical evidence that moving the gate changed the overall engagement (total rounds played) of the player base.
 
 
 Behavioral Interpretation 
